@@ -1,8 +1,5 @@
 # <p align="center">[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Segoe+UI&size=23&lines=Olá+👋,+me+chamo+Sidne+!)](https://git.io/typing-svg)</p>
 
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
 
 <p align="center">
 <strong>Estudante de Análise e Desenvolvimento de Sistemas.</strong><br>
@@ -16,7 +13,12 @@ Rio de Janeiro, Brazil
 <br>
 <br>
 
-##
- 📚 *Atualmente buscando maior aperfeiçoamento em python*
 
+ 📚 *Atualmente buscando maior aperfeiçoamento em python*
+##
+
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+</div>
 
