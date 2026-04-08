@@ -33,3 +33,7 @@ Rio de Janeiro, Brazil
 </div>
 
 
+<br>
+<br>
+<br>
+<p align="center"> <img src=https://komarev.com/ghpvc/?username=SDinee alt=SDinee/> </p>
