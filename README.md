@@ -1,12 +1,12 @@
 <h1 align= "center"> Welcome to my profile! </h1>
 
 
-<p> Estudante de Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá.<br>
-Iniciante na área de programação, porém sempre buscando conhecimento para engrandecimento pessoal e profissional, no momento não estou atuando na área de TI.<br>
+<p> Systems Analysis and Development student at Estácio de Sá University.
+Beginner in the programming field, but always seeking knowledge for personal and professional growth. Currently not working in the IT area.<br>
 
 
 
- 📚 *Estudando e buscando aperfeiçoamento em python.*
+ 📚 *Studying and improving skills in Python.*
 </p>
 
 # 
