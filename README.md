@@ -7,7 +7,7 @@ Iniciante na área de programação, porém sempre buscando conhecimento para en
 
 
 
- 📚 *Atualmente buscando maior aperfeiçoamento em python*
+ 📚 *Buscando aperfeiçoamento em python*
 </p>
 
 # 
