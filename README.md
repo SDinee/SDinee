@@ -6,12 +6,6 @@
 Rio de Janeiro, Brazil
 </p>
 
-<div align="center">
-  <a href = "https://www.linkedin.com/in/sidne-cabo-5b68793b6?utm_source=share_via&utm_content=profile&utm_medium=member_android">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  /> 
-  </a>
-</div>
-
 <br>
 <br>
 
@@ -38,4 +32,11 @@ Rio de Janeiro, Brazil
 <br>
 <br>
 <br>
-<p align="center"> <img src=https://komarev.com/ghpvc/?username=SDinee alt=SDinee/> </p>
+
+<div align="left">
+  <a href = "https://www.linkedin.com/in/sidne-cabo-5b68793b6?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /> 
+  </a>
+</div>
+
+<div align="center"> <img src=https://komarev.com/ghpvc/?username=SDinee alt=SDinee/> </div>
