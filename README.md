@@ -9,6 +9,7 @@ Beginner in the programming field, but always seeking knowledge for personal and
  📚 *Studying and improving skills in Python.*
 </p>
 
+<br>
 
 <div align = "center">
  <a href = "https://www.linkedin.com/in/sidne-cabo-5b68793b6?utm_source=share_via&utm_content=profile&utm_medium=member_android">
