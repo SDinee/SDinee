@@ -14,6 +14,10 @@ Iniciante na área de programação, porém sempre buscando conhecimento para en
 <br>
 <br>
 
+<div align= "center"> 
+ <img height= "200px" src= "https://gist.githubusercontent.com/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
+</div>
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/sidne-cabo-5b68793b6?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
  #
