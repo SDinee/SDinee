@@ -1,4 +1,4 @@
-# <p align="center">[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Segoe+UI&size=23&lines=Olá+👋,+me+chamo+Sidne)](https://git.io/typing-svg)</p>
+# <p align="center">[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Segoe+UI&size=23&lines=Olá+👋,+me+chamo+Sidne+!)](https://git.io/typing-svg)</p>
 
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
