@@ -2,8 +2,8 @@
 
 
 
-<p> Estudante de Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá.
-Busco sempre atualizar meu conhecimento para engrandecimento pessoal e profissional<br>
+<p> Estudante de Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá.<br>
+Iniciante na área de programação, porém sempre buscando conhecimento para meu engrandecimento pessoal e também profissionaln no momento não estou atuando na área.<br>
 
 
 
