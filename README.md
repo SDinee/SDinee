@@ -35,7 +35,7 @@ Rio de Janeiro, Brazil
 
 <div align="left">
   <a href = "https://www.linkedin.com/in/sidne-cabo-5b68793b6?utm_source=share_via&utm_content=profile&utm_medium=member_android">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="15" alt="linkedin logo"  /> 
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo"  /> 
   </a>
 </div>
 
