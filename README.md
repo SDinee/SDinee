@@ -1,17 +1,31 @@
 # <p align="center">[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Segoe+UI&size=23&lines=Olá+👋,+me+chamo+Sidne+!)](https://git.io/typing-svg)</p>
 
 
-<p align="center">
-<strong>Estudante de Análise e Desenvolvimento de Sistemas.</strong><br>
-Rio de Janeiro, Brazil
-</p>
 
-<br>
-<br>
+<p> Estudante de Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá.
+Busco sempre atualizar meu conhecimento para engrandecimento pessoal e profissional<br>
+
 
 
  📚 *Atualmente buscando maior aperfeiçoamento em python*
-##
+</p>
+
+#
+
+<div align ="center">
+<img height="200px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmc1dGFjbGdkNThlZzFhYW5rdnJ1aWE2cnJnNnE2ZjZlaTMwcjNqZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
+</div>
+
+<h3> Connect!</h3> 
+
+<div align="left">
+  <a href = "https://www.linkedin.com/in/sidne-cabo-5b68793b6?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo"  /> 
+  </a>
+</div>
+ 
+
+<h3> Languages and Tools:</h3> 
 
 
 <div align="center">
@@ -28,18 +42,8 @@ Rio de Janeiro, Brazil
   <img src="https://skillicons.dev/icons?i=py" alt="python" width="45" height="45"/> </a>
 </div>
 
+#
 
-<br>
-<br>
-<br>
-
-<div align="left">
-  <a href = "https://www.linkedin.com/in/sidne-cabo-5b68793b6?utm_source=share_via&utm_content=profile&utm_medium=member_android">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo"  /> 
-  </a>
-</div>
-
-##
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
