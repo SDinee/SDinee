@@ -9,14 +9,10 @@ Beginner in the programming field, but always seeking knowledge for personal and
  📚 *Studying and improving skills in Python.*
 </p>
 
-# 
-
-
 <div align= "center"> 
- <img height= "200px" src= "https://gist.githubusercontent.com/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
+ <img height= "200px" src= "htps://gist.githubusercontent.com/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
 </div>
 
-<br>
 
 <div align = "center">
  <a href = "https://www.linkedin.com/in/sidne-cabo-5b68793b6?utm_source=share_via&utm_content=profile&utm_medium=member_android">
