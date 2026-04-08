@@ -10,16 +10,13 @@ Busco sempre atualizar meu conhecimento para engrandecimento pessoal e profissio
  📚 *Atualmente buscando maior aperfeiçoamento em python*
 </p>
 
-#
 
-<div align ="center">
-<img height="200px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmc1dGFjbGdkNThlZzFhYW5rdnJ1aWE2cnJnNnE2ZjZlaTMwcjNqZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
-</div>
-
-<h3> Connect!</h3> 
+<br>
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/sidne-cabo-5b68793b6?utm_source=share_via&utm_content=profile&utm_medium=member_android)
- 
+
+ #
 
 <h3> Languages and Tools:</h3> 
 
