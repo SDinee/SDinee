@@ -26,6 +26,7 @@ Beginner in the programming field, but always seeking knowledge for personal and
   <img src="https://skillicons.dev/icons?i=css" width="45" />
   <img src="https://skillicons.dev/icons?i=html" width="45" />
   <img src="https://skillicons.dev/icons?i=py" width="45" />
+  <img src="https://skillicons.dev/icons?i=postgrespy" width="45" />
 </p>
 
 #
