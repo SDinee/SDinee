@@ -20,14 +20,18 @@ Beginner in the programming field, but always seeking knowledge for personal and
 
 <h3> Languages and Tools:</h3> 
 
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c" width="45" />
-  <img src="https://skillicons.dev/icons?i=css" width="45" />
-  <img src="https://skillicons.dev/icons?i=html" width="45" />
-  <img src="https://skillicons.dev/icons?i=py" width="45" />
-  <img src="https://skillicons.dev/icons?i=postgres" width="45" />
-</p>
+<div align="center">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://skillicons.dev/icons?i=c" alt="c" width="45"/> </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+  <img src="https://skillicons.dev/icons?i=css" alt="css3" width="45"/> </a> 
+  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> 
+  <img src="https://skillicons.dev/icons?i=html" alt="html5" width="45"/> </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+  <img src="https://skillicons.dev/icons?i=py" alt="python" width="45"/> </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://skillicons.dev/icons?i=postgres" width="45"/> </a>
+</div>
 
 #
 
