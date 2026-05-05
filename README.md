@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Systems+Development+Student;Learning+Python+C+Web+and+SQL;Building+my+future+in+tech" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Systems+Development+Student;Learning+Python,+Web+and+SQL;Building+my+future+in+tech" />
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ## 🧠 About Me
 
-- 📚 Studying **Python, C, Web Development and Databases**
+- 📚 Studying **Python, Web Development and Databases**
 - 🧪 Practicing through small projects
 - 📈 Improving step by step
 - 🎯 Goal: Start my career in tech
@@ -40,15 +40,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SDinee&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SDinee&layout=compact&theme=tokyonight&border_radius=10&hide_border=true"/>
-</p>
-
----
-
 ## 🔗 Connect with me
 
 <p align="center">
@@ -62,9 +53,3 @@
 ## ⚡ Fun Fact
 
 > Consistency is my main strategy for growing in programming.
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg" />
-</p>
