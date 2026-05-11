@@ -8,8 +8,8 @@
 
 <p align="center">
 🎓 Systems Analysis and Development student <br>
-💻 Building a solid foundation in programming <br>
-🚀 Focused on continuous learning
+💻 Building projects to improve my skills in programming and software development <br>
+🚀 Learning Python, SQL, Web Development and future Full Stack technologies
 </p>
 
 ---
