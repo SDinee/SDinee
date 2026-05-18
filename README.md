@@ -26,7 +26,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,html,css,postgres&perline=5" />
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,git,postgres&perline=5" />
 </p>
 
 ---
