@@ -31,15 +31,6 @@
 
 ---
 
-## 📌 Featured Studies
-
-- 🐍 **Python** → Logic, functions, file handling and simple projects  
-- ⚙️ **C** → Fundamentals, loops, arrays and basic data structures  
-- 🌐 **Web** → HTML, CSS and multi-page projects  
-- 🗄️ **Database** → SQL, PostgreSQL and relational modeling  
-
----
-
 ## 🔗 Connect with me
 
 <p align="center">
