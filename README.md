@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Systems+Development+Student;Learning+Python,+Web+and+SQL;Building+my+future+in+tech" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Systems+Analysis+and+Development+Student;Building+Full+Stack+Projects+with+Python+and+Flask;Learning+Backend,+Databases+and+Web+Development;Improving+through+real+projects+and+practice" />
 </p>
 
 <p align="center">
