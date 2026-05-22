@@ -8,18 +8,20 @@
 
 <p align="center">
 🎓 Systems Analysis and Development student <br>
-💻 Building projects to improve my skills in programming and software development <br>
-🚀 Learning Python, SQL, Web Development and future Full Stack technologies
-</p>
+💻 Developing full stack projects using Python, Flask and PostgreSQL <br>
+🚀 Focused on improving my skills in backend development, databases and web applications <br>
+📚 Learning through practical projects and continuous experimentation
 
 ---
 
 ## 🧠 About Me
 
-- 📚 Studying **Python, Web Development and Databases**
-- 🧪 Practicing through small projects
-- 📈 Improving step by step
-- 🎯 Goal: Start my career in tech
+- 🐍 Studying Python, Flask, SQL and Web Development.
+- 🗄️ Practicing database modeling and relational systems with PostgreSQL.
+- 🧪 Building real projects to improve problem-solving and system organization.
+- 📈 Improving step by step through hands-on learning
+- 🎯 Goal: Start my career in technology and software development.
+
 
 ---
 
