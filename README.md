@@ -12,8 +12,6 @@
 🚀 Focused on improving my skills in backend development, databases and web applications <br>
 📚 Learning through practical projects and continuous experimentation
 
----
-
 ## 🧠 About Me
 
 - 🐍 Studying Python, Flask, SQL and Web Development.
@@ -22,16 +20,11 @@
 - 📈 Improving step by step through hands-on learning
 - 🎯 Goal: Start my career in technology and software development.
 
-
----
-
 ## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,html,css,git,postgres,flask&perline=17" />
 </p>
-
----
 
 ## 🔗 Connect with me
 
@@ -40,8 +33,6 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-
----
 
 ## ⚡ Fun Fact
 
