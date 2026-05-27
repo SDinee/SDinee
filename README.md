@@ -24,7 +24,9 @@
 
 <br>
 
-## 🧠 Sobre Mim
+<h2>
+  🧠 Sobre Mim
+</h2> 
 
 Sou estudante de Análise e Desenvolvimento de Sistemas, focado no desenvolvimento full stack de aplicações web.
 
@@ -34,13 +36,17 @@ Tenho interesse em backend, interfaces web, banco de dados e evolução constant
 
 <br>
 
-## 🛠️ Tecnologias
+<h2>
+  🛠️ Tecnologias
+</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,html,css,git,postgres,flask&perline=17" />
 </p>
 
-## 🔗 Conecte-se comigo
+<h2>
+  🔗 Conecte-se comigo
+</h2> 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sidne-cabo" target="_blank">
@@ -48,7 +54,9 @@ Tenho interesse em backend, interfaces web, banco de dados e evolução constant
   </a>
 </p>
 
-## ⚡ Curiosidade
+<h2>
+  ⚡ Curiosidade
+</h2>
 
 > Consistência e prática diária fazem parte da minha evolução na programação.
 
