@@ -72,9 +72,3 @@ Tenho interesse em backend, interfaces web, banco de dados e evolução constant
     width="420"
   />
 </p>
-
-<div align="center">
-  <img width="100%" 
-    src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0D1117,50:00BFFF,100:4DA6FF"
-  />
-</div>
