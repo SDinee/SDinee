@@ -57,13 +57,10 @@ Tenho interesse em backend, interfaces web, banco de dados e evolução constant
 <p align="center">
   <img 
     src="https://github-readme-stats-eight-theta.vercel.app/api?username=SDinee&show_icons=true&include_all_commits=true&count_private=true&title_color=4DA6FF&icon_color=00BFFF&text_color=A9D6FF&bg_color=0D1117"
+    width="420"
   />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SDinee&theme=tokyonight&hide_border=true&background=0D1117&ring=4DA6FF&fire=00BFFF&currStreakLabel=4DA6FF" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=SDinee&theme=tokyonight&hide_border=true&background=0D1117&ring=4DA6FF&fire=00BFFF&currStreakLabel=4DA6FF"
+    width="420"
+  />
 </p>
-
-<div align="center">
-  <img width="100%" 
-    src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0D1117,50:00BFFF,100:4DA6FF"
-  />
-</div>
