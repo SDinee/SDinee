@@ -33,9 +33,9 @@ Olá, me chamo Sidne.
 
 Sou estudante de Análise e Desenvolvimento de Sistemas, focado em construir aplicações web reais do zero.
 
-Trabalho com Python, Flask e PostgreSQL, sempre buscando entender como as coisas funcionam por baixo — do banco até a interface.
+Sempre buscando aprender coisas novas.
 
-Tenho interesse em backend, banco de dados, automação e qualquer coisa que transforme lógica em algo que as pessoas possam usar de verdade.
+Tenho interesse no desenvolvimento fullstack e em qualquer coisa que transforme lógica em algo que as pessoas possam usar de verdade.
 
 O que me motiva: pegar um problema, entender suas partes, e montar uma solução que funcione.
 
