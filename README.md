@@ -29,7 +29,7 @@
     </td>
     <td width="62%" valign="top">
 
-Hey there, I'm Sidne.
+Olá, me chamo Sidne.
 
 Sou estudante de Análise e Desenvolvimento de Sistemas, focado em construir aplicações web reais do zero.
 
