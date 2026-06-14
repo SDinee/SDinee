@@ -1,74 +1,73 @@
-<div align="center">
-  <img width="100%" 
-    src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0D1117,50:00BFFF,100:4DA6FF&reversal=true"
-  />
-</div>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4DA6FF&center=true&vCenter=true&width=700&lines=Backend+Developer+in+progress;Python+%7C+Flask+%7C+PostgreSQL;Learning+through+real+projects;Always+improving+through+practice" />
+  <img src="https://github.com/SDinee/SDinee/blob/main/assets/banner.jpg" alt="Sidne profile header" width="100%" />
 </p>
 
-<h1 align="center">
-  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
-  <em>Olá, me chamo Sidne</em>
-</h1>
-
-<br>
-
 <p align="center">
-🎓 Estudante de Análise e Desenvolvimento de Sistemas <br>
-💻 Criando projetos utilizando Python, Flask e PostgreSQL <br>
-🚀 Explorando desenvolvimento full stack <br>
-📚 Aprendendo constantemente através da prática e experimentação
+  <img src="https://img.shields.io/badge/FULL_STACK_EM_FORMAÇÃO-1a0a0f?style=for-the-badge&labelColor=1a0a0f&color=c0394b" alt="Full Stack em Formação" />
 </p>
 
-<br>
-
-<h2>
-  🧠 Sobre Mim
-</h2> 
-
-Sou estudante de Análise e Desenvolvimento de Sistemas, focado no desenvolvimento full stack de aplicações web.
-
-Atualmente venho aprimorando minhas habilidades com Python, Flask, PostgreSQL, HTML e CSS através de projetos práticos, estudos independentes e experimentação contínua.
-
-Tenho interesse em backend, interfaces web, banco de dados e evolução constante na área de tecnologia.
-
-<br>
-
-<h2>
-  🛠️ Tecnologias
-</h2>
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,html,css,git,postgres,flask&perline=17" />
-</p>
-
-<h2>
-  🔗 Conecte-se comigo
-</h2> 
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sidne-cabo" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://github.com/SDinee">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/sidne-cabo">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:seuemail@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
-<h2>
-  ⚡ Curiosidade
-</h2>
+---
 
-> Consistência e prática diária fazem parte da minha evolução na programação.
+## Know About Me
 
-<br><br>
+<table>
+  <tr>
+    <td width="38%" valign="top">
+      <img src="https://github.com/SDinee/SDinee/blob/main/assets/samurai2.png" alt="Sidne portrait" width="100%" />
+    </td>
+    <td width="62%" valign="top">
+
+Hey there, I'm Sidne.
+
+Sou estudante de Análise e Desenvolvimento de Sistemas, focado em construir aplicações web reais do zero.
+
+Trabalho com Python, Flask e PostgreSQL, sempre buscando entender como as coisas funcionam por baixo — do banco até a interface.
+
+Tenho interesse em backend, banco de dados, automação e qualquer coisa que transforme lógica em algo que as pessoas possam usar de verdade.
+
+O que me motiva: pegar um problema, entender suas partes, e montar uma solução que funcione.
+
+    Consistência e prática diária fazem parte da minha evolução na programação.
+  </tr>
+</table>
+
+---
+
+## Technical Arsenal
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats-eight-theta.vercel.app/api?username=SDinee&show_icons=true&include_all_commits=true&count_private=true&title_color=4DA6FF&icon_color=00BFFF&text_color=A9D6FF&bg_color=0D1117"
-    width="420"
-  />
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=SDinee&theme=tokyonight&hide_border=true&background=0D1117&ring=4DA6FF&fire=00BFFF&currStreakLabel=4DA6FF"
-    width="420"
-  />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Flask-1a0a0f?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+</p>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SDinee&theme=dark&title_color=c0394b&text_color=e8c4c4&icon_color=c0394b&bg_color=1a0a0f&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SDinee&theme=dark&title_color=c0394b&text_color=e8c4c4&bg_color=1a0a0f&hide_border=true&layout=compact" alt="Top languages" />
+</p>
+
+---
+
+<p align="center">
+  <strong>Aprendendo na prática. Construindo com propósito. Evoluindo todo dia.</strong>
 </p>
