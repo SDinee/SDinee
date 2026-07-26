@@ -31,7 +31,7 @@
 
 Olá, me chamo Sidne.
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, focado em construir aplicações web reais do zero.
+Sou estudante de Análise e Desenvolvimento de Sistemas.
 
 Sempre buscando aprender coisas novas.
 
