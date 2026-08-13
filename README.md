@@ -60,15 +60,6 @@ O que me motiva: pegar um problema, entender suas partes, e montar uma solução
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SDinee&theme=dark&title_color=c0394b&text_color=e8c4c4&icon_color=c0394b&bg_color=1a0a0f&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SDinee&theme=dark&title_color=c0394b&text_color=e8c4c4&bg_color=1a0a0f&hide_border=true&layout=compact" alt="Top languages" />
-</p>
-
----
-
 <p align="center">
   <strong>Aprendendo na prática. Construindo com propósito. Evoluindo todo dia.</strong>
 </p>
