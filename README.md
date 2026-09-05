@@ -13,5 +13,3 @@ Acredito que desenvolver software vai além de escrever código: é compreender 
 
  ➥
   <a href="https://www.linkedin.com/in/sidne-cabo">LinkedIn</a>
-  ·
-  <a href="mailto:contato.sidnecabo@gmail.com">Email</a>
