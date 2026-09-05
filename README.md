@@ -8,7 +8,7 @@ Acredito que desenvolver software vai além de escrever código: é compreender 
 
 ## Tecnologias
 
-<img width="350" src="https://skillicons.dev/icons?i=python,flask,postgresql,html,css,git,c,java" />
+<img width="350" src="https://skillicons.dev/icons?i=python,flask,java,c,cs,postgresql,html,css,git" />
 
 
  ➥
