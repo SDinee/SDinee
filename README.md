@@ -10,6 +10,4 @@ Acredito que desenvolver software vai além de escrever código: é compreender 
 
 <img width="350" src="https://skillicons.dev/icons?i=python,flask,java,c,cs,postgresql,html,css,git" />
 
-
- ➥
-  <a href="https://www.linkedin.com/in/sidne-cabo">LinkedIn</a>
+<a href="https://www.linkedin.com/in/sidne-cabo">LinkedIn</a>
