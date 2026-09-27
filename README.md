@@ -1,6 +1,6 @@
 ## Sidne Cabo
 
-`Full Stack Developer em formação`
+`Análise e Desenvolvimento de Sistemas`
 
 Olá, Sou estudante de Análise e Desenvolvimento de Sistemas e estou construindo minha trajetória na área de tecnologia por meio de estudos, projetos e prática constante.
 
