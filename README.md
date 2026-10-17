@@ -1,17 +1,79 @@
-## Sidne Cabo
+<p align="center">
+  <img src="https://github.com/SDinee/SDinee/blob/main/assets/banner.jpg" alt="Sidne profile header" width="100%" />
+</p>
 
-`Análise e Desenvolvimento de Sistemas`
+<p align="center">
+  <img src="https://img.shields.io/badge/Análise_e_Desenvolvimento_de_Sistemas-1a0a0f?style=for-the-badge&labelColor=1a0a0f&color=c0394b" alt="Full Stack em Formação" />
+</p>
 
-Olá, Sou estudante de Análise e Desenvolvimento de Sistemas e estou construindo minha trajetória na área de tecnologia por meio de estudos, projetos e prática constante.
+<p align="center">
+  <a href="https://github.com/SDinee">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/sidne-cabo">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+### Know About Me
+
+<table>
+  <tr>
+    <td width="38%" valign="top">
+      <img src="https://github.com/SDinee/SDinee/blob/main/assets/samurai2.png" alt="Sidne portrait" width="100%" />
+    </td>
+    <td width="62%" valign="top">
+
+<br><br>
+
+Olá, me chamo Sidne.
+
+Sou estudante de Análise e Desenvolvimento de Sistemas, estou construindo minha trajetória na área de tecnologia por meio de estudos, projetos e prática constante.
+
+Sempre buscando aprender coisas novas.
 
 Acredito que desenvolver software vai além de escrever código: é compreender um problema, pensar em possibilidades e construir soluções que façam sentido.
 
-## Tecnologias
+<br>
 
-<p>
-  <img width="550" src="https://skillicons.dev/icons?i=python,flask,java,c,cs,dotnet,postgres,sqlite,react,html,javascript,css,git,postman" />
-  <img width="35" height="35" src="https://cdn.simpleicons.org/swagger/85EA2D" alt="Swagger" />
-  <img width="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SQL Server" />
+    Aprendendo na prática. Construindo com propósito. Evoluindo todo dia.
+  </tr>
+</table>
+
+
+## Technical Arsenal
+
+<table align="center">
+<tr>
+  <td align="center" valign="top" width="33%">
+    <strong>💻 Linguagens</strong>
+    <p>
+      <img src="https://skillicons.dev/icons?i=python,java,c,cs,js,html,css&perline=3&theme=dark" alt="Linguagens" />
+    </p>
+  </td>
+
+  <td align="center" valign="top" width="33%">
+    <strong>⚙️ Frameworks</strong>
+    <p>
+      <img src="https://skillicons.dev/icons?i=flask,dotnet,react&perline=3&theme=dark" alt="Frameworks e Bibliotecas" />
+    </p>
+  </td>
+
+  <td align="center" valign="top" width="34%">
+    <strong>🛠️ Ferramentas</strong>
+    <p>
+      <img src="https://skillicons.dev/icons?i=postgres,sqlite,git,postman&perline=3&theme=dark" alt="Bancos e Ferramentas" />
+      <br>
+      <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SQL Server" />
+      <img width="48" height="48" src="https://cdn.simpleicons.org/swagger/85EA2D" alt="Swagger" />
+    </p>
+  </td>
+</tr>
+</table>
+
+## GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SDinee&theme=dark&title_color=c0394b&text_color=e8c4c4&icon_color=c0394b&bg_color=1a0a0f&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SDinee&theme=dark&title_color=c0394b&text_color=e8c4c4&bg_color=1a0a0f&hide_border=true&layout=compact" alt="Top languages" />
 </p>
-
-<a href="https://www.linkedin.com/in/sidne-cabo">LinkedIn</a>
