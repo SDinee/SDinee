@@ -61,11 +61,13 @@ Acredito que desenvolver software vai além de escrever código: é compreender 
 
   <td align="center" valign="top" width="34%">
     <strong>🛠️ Ferramentas</strong>
-    <p>
-      <img src="https://skillicons.dev/icons?i=postgres,sqlite,git,postman&perline=3&theme=dark" alt="Bancos e Ferramentas" />
-      <br>
-      <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SQL Server" />
-      <img width="48" height="48" src="https://cdn.simpleicons.org/swagger/85EA2D" alt="Swagger" />
+    <p align="center">
+      <img src="https://skillicons.dev/icons?i=postgres,sqlite,git&theme=dark" alt="PostgreSQL, SQLite e Git" />
+    </p>
+    <p align="center">
+      <img src="https://skillicons.dev/icons?i=postman&theme=dark" width="48" height="48" alt="Postman" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="48" height="48" alt="SQL Server" />
+      <img src="https://cdn.simpleicons.org/swagger/85EA2D" width="48" height="48" alt="Swagger" />
     </p>
   </td>
 </tr>
